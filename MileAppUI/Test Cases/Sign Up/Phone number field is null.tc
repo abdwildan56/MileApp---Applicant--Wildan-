@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Phone number field is null</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>341c1f26-4c0e-45b6-bc7d-34d396d4e2b9</testCaseGuid>
+   <variable>
+      <defaultValue>'wildan abdullah'</defaultValue>
+      <description></description>
+      <id>e8c9fb81-deb5-45e3-bae2-77d1f3bdec13</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>'abdwildan@gmail.com'</defaultValue>
+      <description></description>
+      <id>20e6069b-bd24-4c3b-852d-e0a6f39642be</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'81228179757'</defaultValue>
+      <description></description>
+      <id>d1d52414-85b2-4936-89e0-eb4bd8930b59</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'PT. Sukajaya'</defaultValue>
+      <description></description>
+      <id>4bf0cb4c-6686-4097-b030-451756db2d7d</id>
+      <masked>false</masked>
+      <name>company</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b59c81c1-cd22-42cb-8f30-aa3db0d654ee</id>
+      <masked>false</masked>
+      <name>link_success_request</name>
+   </variable>
+</TestCaseEntity>

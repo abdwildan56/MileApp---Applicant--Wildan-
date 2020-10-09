@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>All fields are filled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea05c53d-c974-4577-9433-e17841883ce5</testCaseGuid>
+   <variable>
+      <defaultValue>'wildan abdullah'</defaultValue>
+      <description></description>
+      <id>c45fd2e6-0c7c-4382-af81-b105033d859d</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>'abdwildan@gmail.com'</defaultValue>
+      <description></description>
+      <id>1e4d0599-e041-4b87-8ddf-bf0f2f589841</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'81228179757'</defaultValue>
+      <description></description>
+      <id>2247675c-3095-4e45-be9f-0dbc56e9399f</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'PT. Sukajaya'</defaultValue>
+      <description></description>
+      <id>66eaeca2-287b-4013-afb2-35a1e6e5e1a4</id>
+      <masked>false</masked>
+      <name>company</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d07f4fb3-61d8-4441-a344-29919fa5c012</id>
+      <masked>false</masked>
+      <name>link_success_request</name>
+   </variable>
+</TestCaseEntity>

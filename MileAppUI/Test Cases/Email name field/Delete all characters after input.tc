@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete all characters after input</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a3b119b-b451-4a04-a0ed-f95e8ad1440e</testCaseGuid>
+   <variable>
+      <defaultValue>'wildan abdullah'</defaultValue>
+      <description></description>
+      <id>46f9015d-3d9f-4110-a56f-ab913d3f6acc</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>'abdwildan@gmail.com'</defaultValue>
+      <description></description>
+      <id>750f90d8-e044-4a12-a26b-50c26d747849</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'81228179757'</defaultValue>
+      <description></description>
+      <id>16f475c6-86f4-4327-adf4-a744b3cab00a</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'PT. Sukajaya'</defaultValue>
+      <description></description>
+      <id>5ad70d3a-f410-4b49-9913-35e9c6c54dda</id>
+      <masked>false</masked>
+      <name>company</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>910e7079-1df5-4ce5-9b12-991c81d656fb</id>
+      <masked>false</masked>
+      <name>link_success_request</name>
+   </variable>
+   <variable>
+      <defaultValue>'!@#$dwmak123590][\r\n'</defaultValue>
+      <description></description>
+      <id>24fbc29d-28fb-4ef9-b8a2-05c4bef5235b</id>
+      <masked>false</masked>
+      <name>random_alphanumeric_and_symbols</name>
+   </variable>
+</TestCaseEntity>

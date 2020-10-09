@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Company field is null</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9fac339-252e-4a70-84c8-eddd941d4050</testCaseGuid>
+   <variable>
+      <defaultValue>'wildan abdullah'</defaultValue>
+      <description></description>
+      <id>5e469654-d2e6-4da3-8bb9-42f48e9186d6</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>'abdwildan@gmail.com'</defaultValue>
+      <description></description>
+      <id>94d32462-b5bc-4a8d-83b4-3dc113b8090f</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'81228179757'</defaultValue>
+      <description></description>
+      <id>43b34710-f831-4874-9208-b75fd6d0b625</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'PT. Sukajaya'</defaultValue>
+      <description></description>
+      <id>0d702fd2-4c71-4047-9421-5672d8208f8a</id>
+      <masked>false</masked>
+      <name>company</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>94a274b5-4e17-4561-b91b-ab9fb19dab03</id>
+      <masked>false</masked>
+      <name>link_success_request</name>
+   </variable>
+</TestCaseEntity>

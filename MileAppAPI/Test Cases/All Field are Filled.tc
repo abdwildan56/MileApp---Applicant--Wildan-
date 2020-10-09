@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>All Field are Filled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>603b1cf1-ed7f-45f0-9b1b-495d08d2154f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b6468c88-6cee-430d-a7e7-a76be5285422</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>

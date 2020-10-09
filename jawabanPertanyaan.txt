@@ -1,0 +1,22 @@
+Sebutkan 3 Kesealahan besar yang paling sering dilakukan oleh QA lalu berikan solusi agar tidak terjadi atau terulang kembali ?
+Jawab : 
+1. Testing dilakukan hanya pada satu browser atau browser tertentu. 
+   Solusi yang dilakukan adalah lakukan pengetesan pada semua browser yang mayoritas user
+   gunakan. Misal : Firefox, google chrome, and safari browser.
+2. Testing dilakukan pada kondisi cache belum dibersihkan.
+   Ketika testing dilakukan dalam kondisi cache belum dibersihkan, kemungkinan besar tester
+   akan berada pada versi halaman web yang masih dalam cache dari salah satu sesi sebelumnya.
+   Solusi yang dilakukan adalah bersihkan cache terlebih dahulu sebelum testing atau gunakan
+   mode incognito (chrome).
+3. Testing pada hanya satu resolusi layar / ukuran layar.
+   Pada elemen tertentu khususnya testing UI ketika resolusi layar berubah, bisa jadi ada beberapa
+   komponen yang berubah letak / fungsionalitasnya.
+   Solusi yang dilakukan adalah lakukan pengetesan pada resolusi layar tertentu yang mayoritas user gunakan
+   (sesuai requirement yang ada).
+
+Jelaskan point - point terpenting yang harus diperhatikan Dalam menganalisa dan membuat Skenario Test ?
+Jawab :
+1. Expected result => hasil apa yang diharapkan dari pengetesan tersebut.
+2. Pre-condition => hal apa yang dilakukan sebelum pengetesan tersebut berjalan.
+3. Test Data => apakah tes tersebut memerlukan sebuah data pengujian untuk diinputkan atau diuji.
+4. Test Step => langkah-langkah yang dilakukan untuk mencapai expected result
